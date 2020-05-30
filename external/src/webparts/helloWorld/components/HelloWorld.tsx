@@ -3,7 +3,6 @@ import { DefaultButton } from 'office-ui-fabric-react/lib/Button'
 import { IStackProps, Stack } from 'office-ui-fabric-react/lib/Stack'
 import { TextField } from 'office-ui-fabric-react/lib/TextField'
 import * as React from 'react'
-import './../../../assets/scss/theme.scss'
 import styles from './HelloWorld.module.scss'
 import { IHelloWorldProps } from './IHelloWorldProps'
 const logo: any = require('./../../../assets/google.gif')
